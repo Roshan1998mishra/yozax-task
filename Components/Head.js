@@ -23,11 +23,11 @@ const DataTable = () => {
   ];
 return (
 <>
-<div className='parent2 p-4 container'>
+<div className='parent2 p-4 container justify-between	'>
 <div className="overflow-x-auto">
 
 
-<div className='flex parent3'> 
+<div className='flex parent3 justify-between	'> 
     <div>
         <p className='font-bold'>Product Summary</p>
     </div>
