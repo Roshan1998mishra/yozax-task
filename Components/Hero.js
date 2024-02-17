@@ -3,7 +3,7 @@ import React from 'react'
 const Hero = () => {
   return (
     <>
-    <div className='parent flex p-4'> 
+    <div className='parent d-flex p-4 justify-between'> 
     <div>
         <h1 className='text-4xl pl-12'>Orders</h1>
     </div>
