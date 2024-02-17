@@ -27,12 +27,12 @@ return (
 <div className="overflow-x-auto">
 
 
-<div className='flex parent3 justify-between items-center	'> 
+<div className='d-flex parent3 justify-between items-center	'> 
     <div>
         <p className='font-bold'>Product Summary</p>
     </div>
 
-    <div className='flex gap-4'>
+    <div className='d-flex gap-4'>
     <div>
        <p className='font-semibold'>Show</p> 
     </div>
